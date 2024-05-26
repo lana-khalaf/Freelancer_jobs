@@ -7,3 +7,4 @@ const Color blue = Color.fromRGBO(0, 9, 89, 1);
 const Color black = Colors.black;
 const String kBaseUrl = 'https://localhost:7192';
 const String test = ''; 
+const String test1 = '';
